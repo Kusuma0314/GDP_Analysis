@@ -1,4 +1,4 @@
-# Pluto Convenience Store Computerized System Transition
+# GDP Analysis 
 
 ## Introduction
 This repository documents the transition process of Pluto Convenience Store from a manual transaction recording system to a computerized one. This README file provides an overview of the project objectives, system features, database design, implementation plan, and expected outcomes.
